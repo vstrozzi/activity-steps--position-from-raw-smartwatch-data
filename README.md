@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains the code and implementation for the Mobile Health (mHealth) activity recognition project completed at ETH Zurich in 2024. The project focuses on classifying human activities, sensor postions, steps and heartbeat using wearable sensor data from smartwatches placed at different body locations.
+This repository contains the code and implementation for the Mobile Health (mHealth) activity recognition project completed at ETH Zurich in 2024. The project focuses on classifying human activities, sensor postions, steps and heartbeat using wearable sensor data from smartwatch (LilyGo) placed at different body locations.
 
-The implementation uses traditional signal processing techniques and machine learning to predict activity types (standing, walking, running, cycling), watch location (wrist, belt, ankle), walking path, and step counts from accelerometer, gyroscope, magnetometer, and altitude sensor data.
+The implementation uses traditional signal processing techniques and machine learning to predict activity types (standing, walking, running, cycling), watch location (wrist, belt, ankle), walking path, and step counts from accelerometer, gyroscope, magnetometer, and altitude sensor data (sensor fusion)
 
 By Virgilio Strozzi at ETH Zürich (2024).
 ## Abstract
