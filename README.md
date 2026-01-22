@@ -1,8 +1,5 @@
 # Mobile Health Activity Recognition 2024
-![Teaser](submission_code/ppg_orig.png)
 
-
-![Teaser](submission_code/ppg_filt.png)
 ## Overview
 
 
@@ -11,6 +8,11 @@ This repository contains the code and implementation for the Mobile Health (mHea
 The implementation uses traditional signal processing techniques and machine learning to predict activity types (standing, walking, running, cycling), watch location (wrist, belt, ankle), walking path, and step counts from accelerometer, gyroscope, magnetometer, and altitude sensor data (sensor fusion)
 
 By Virgilio Strozzi at ETH Zürich (2024).
+
+![Teaser](submission_code/ppg_orig.png)
+
+
+![Teaser](submission_code/ppg_filt.png)
 ## Abstract
 
 Wearable sensors have become increasingly prevalent for health monitoring and activity tracking. This project investigates the classification of human activities and step detection using sensor data collected from smartwatches positioned at different body locations. The system processes multi-modal sensor data including accelerometer, gyroscope, magnetometer, and altitude measurements to accurately identify user activities and movement patterns.
